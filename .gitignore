@@ -1,0 +1,14 @@
+# Configurações locais
+appsettings.json
+appsettings.*.json
+
+# Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
